@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm 4belSec
 
-<!--
-**4belSec/4belsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Security+ Certified | Aspiring SOC Analyst
 
-Here are some ideas to get you started:
+## 🛡️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am focused on building hands-on cybersecurity skills, especially in:
+
+* Log Analysis
+* SIEM (Splunk)
+* Incident Response
+* Threat Detection
+
+## 📂 Projects
+
+* 🔍 SOC Labs → Practical incident analysis
+* 🧠 TryHackMe Writeups → Learning path documentation
+
+## 🚀 Currently
+
+* Completing SOC Level 1 (TryHackMe)
+* Building a cybersecurity portfolio
+
+## 📫 Contact
+
+* GitHub: https://github.com/4belSec
