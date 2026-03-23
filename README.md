@@ -19,9 +19,9 @@ I am focused on building hands-on cybersecurity skills, especially in:
 
 ## 📂 Projects
 
-* 🔍 SOC Labs → Incident analysis (phishing, brute force, log investigation)
-* 🧠 TryHackMe Writeups → Documented learning & SOC workflows
-
+* SOC Labs → Incident analysis (phishing, brute force, log investigation)
+* TryHackMe Writeups → Documented learning & SOC workflows
+* macOS Security Lab → Personal lab environment setup for cybersecurity practice
 ---
 
 ## 🚀 Currently
