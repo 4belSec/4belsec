@@ -1,10 +1,10 @@
-# 👋 Hi, I'm 4belSec
+# Hi, I'm 4belSec
 
-🎯 Security+ Certified | Aspiring SOC Analyst
+Security+ Certified | Aspiring SOC Analyst
 
 ---
 
-## 🛡️ About Me
+## About Me
 
 I am focused on building hands-on cybersecurity skills, especially in:
 
@@ -13,28 +13,28 @@ I am focused on building hands-on cybersecurity skills, especially in:
 * Incident Response
 * Threat Detection
 
-💡 All projects are documented with real-world SOC investigation workflows and analysis.
+All projects are documented with real-world SOC investigation workflows and analysis.
 
 ---
 
-## 📂 Projects
+## Projects
 
 * SOC Labs → Incident analysis (phishing, brute force, log investigation)
-* TryHackMe Writeups → Documented learning & SOC workflows
-  
+* TryHackMe Writeups → Documented learning and SOC workflows
+
 ---
 
-## 🚀 Currently
+## Currently
 
 * Completing SOC Level 1 (TryHackMe)
 * Building a cybersecurity portfolio
 
 ---
 
-## 📫 Contact
+## Contact
 
 * GitHub: https://github.com/4belSec
 
 ---
 
-🚀 Actively building my cybersecurity portfolio and open to SOC Analyst opportunities.
+Actively building my cybersecurity portfolio and open to SOC Analyst opportunities.
